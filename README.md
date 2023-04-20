@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aravinda</h1>
 <h3 align="center">"Connecting the Physical World to the Digital: IoT Development on GitHub"</h3>
 
-<imag align="right" alt="Hacking" width="400" src="<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 498px; height: 240px; margin: 105px 0px; width: 431px;" alt="Coding GIFs | Tenor" jsname="kn3ccd">">
+<img align="right" alt="Hacking" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravindajogi&label=Profile%20views&color=0e75b6&style=flat" alt="aravindajogi" /> </p>
 
