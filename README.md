@@ -1,4 +1,4 @@
-![logo](https://github.com/AravindaJogi/AravindaJogi/blob/main/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67%20(1).png)
+![logo](https://github.com/AravindaJogi/AravindaJogi/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif)
 <h1 align="center">Hi 👋, I'm Aravinda</h1>
 <h3 align="center">"Connecting the Physical World to the Digital: IoT Development on GitHub"</h3>
 
