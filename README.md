@@ -1,4 +1,4 @@
-![logo](https://github.com/AravindaJogi/AravindaJogi/blob/main/Purple%20Simple%20Modern%20Technology%20Banner%20(1600%20%C3%97%20800%20px).gif)
+![logo](https://github.com/AravindaJogi/AravindaJogi/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner%20(1600%20%C3%97%20800%20px).gif)
 <h1 align="center">Hi 👋, I'm Aravinda</h1>
 <h3 align="center">"Connecting the Physical World to the Digital: IoT Development on GitHub"</h3>
 
