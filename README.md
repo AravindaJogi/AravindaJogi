@@ -30,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aravindajogi&" alt="aravindajogi" /></p>
 
-![snake gif](https://github.com/AravindaJogi/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/AravindaJogi/AravindaJogi/blob/output/github-contribution-grid-snake.gif)
